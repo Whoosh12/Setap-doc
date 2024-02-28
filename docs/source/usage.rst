@@ -6,11 +6,18 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use our app, first install the dependencies using npm:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   npm i
+
+
+Then run with node:
+.. code-block:: console
+
+   node svr
+
 
 Creating recipes
 ----------------
