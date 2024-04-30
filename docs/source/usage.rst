@@ -14,9 +14,10 @@ To use our app, first install the dependencies using npm:
 
 
 Then run with node:
+
 .. code-block:: console
 
-   node svr
+   npm start
 
 
 Creating PC's
