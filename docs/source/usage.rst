@@ -19,23 +19,16 @@ Then run with node:
    node svr
 
 
-Creating recipes
+Creating PC's
 ----------------
+To make a new PC config, 
+navigate through the page to reach the builder page.
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+The page will ask the user to decide between an AMD or Intel PC,
+once selected the user can start selecting the part they desire including the case, CPU and RAM.
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> npm i
+>>> npm start
 
