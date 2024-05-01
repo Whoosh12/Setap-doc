@@ -16,5 +16,7 @@ Contents
 
 .. toctree::
 
-   usage
+   usage,
    db
+
+
