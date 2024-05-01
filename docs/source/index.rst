@@ -16,7 +16,8 @@ Contents
 
 .. toctree::
 
-   usage <usage>
-   db <db>
+   Usage <usage>
+   Database <db>
+   Node <node>
 
 
