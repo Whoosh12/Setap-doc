@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PC-Builder'
+copyright = '2024, Seth'
+author = 'Seth'
 
 release = '0.1'
 version = '0.1.0'

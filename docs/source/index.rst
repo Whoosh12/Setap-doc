@@ -7,6 +7,12 @@ avoid mismatching parts and poor performance.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+Features
+--------------
+* PC config creation
+* Algorithm to automatically generate PC configs
+* Login system to allow for users to access their configs
+
 .. note::
 
    This project is under active development.
